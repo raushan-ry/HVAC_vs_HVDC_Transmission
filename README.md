@@ -1,4 +1,4 @@
-# ⚡ HVAC vs HVDC Transmission Analysis
+# 1. HVAC vs HVDC Transmission Analysis
 
 A MATLAB-based power systems project that compares the performance of **HVAC (High Voltage Alternating Current)** and **HVDC (High Voltage Direct Current)** transmission systems over long distances.
 
@@ -12,7 +12,7 @@ The project evaluates:
 
 ---
 
-## 📌 Project Objective
+## 2. Project Objective
 
 The objective of this project is to analyze how transmission distance affects HVAC and HVDC systems and determine the distance at which HVDC becomes more efficient than HVAC.
 
@@ -34,7 +34,7 @@ The objective of this project is to analyze how transmission distance affects HV
 
 ---
 
-## 🧮 Methodology
+## 3. Methodology
 
 ### HVAC Transmission
 
@@ -86,7 +86,7 @@ P_{received}=(P_{load}-P_{loss,DC})\times\eta_{converter}
 
 ---
 
-## 📊 Results
+## 4. Results
 
 The simulation shows that:
 
@@ -97,19 +97,19 @@ The simulation shows that:
 
 ---
 
-## 📈 Efficiency Comparison
+## 5. Efficiency Comparison
 
 ![Efficiency Comparison](efficiency.png)
 
 ---
 
-## 📉 Power Loss Comparison
+## 6. Power Loss Comparison
 
 ![Power Loss Comparison](loss.png)
 
 ---
 
-## 📋 Sample Output
+## 7. Sample Output
 
 | Distance (km) | HVAC Efficiency (%) | HVDC Efficiency (%) |
 | ------------- | ------------------- | ------------------- |
@@ -121,7 +121,7 @@ The simulation shows that:
 
 ---
 
-## 🎯 Key Observations
+## 8. Key Observations
 
 ### HVAC
 
@@ -153,7 +153,7 @@ The simulation shows that:
 
 ---
 
-## 🚀 How to Run
+## 9. How to Run
 
 1. Open MATLAB.
 2. Navigate to the project folder.
@@ -173,7 +173,7 @@ The script will:
 
 ---
 
-## 📂 Project Structure
+## 10. Project Structure
 
 ```text
 HVAC_vs_HVDC_Transmission
@@ -187,7 +187,7 @@ HVAC_vs_HVDC_Transmission
 
 ---
 
-## 🛠 Software Used
+## 11. Software Used
 
 * MATLAB
 * Git
@@ -195,7 +195,7 @@ HVAC_vs_HVDC_Transmission
 
 ---
 
-## 📚 Applications
+## 12. Applications
 
 * Power System Analysis
 * Electrical Engineering Education
@@ -206,7 +206,7 @@ HVAC_vs_HVDC_Transmission
 
 ---
 
-## 👨‍💻 Author
+## 13. Author
 
 **Raushan**
 
@@ -216,6 +216,6 @@ GitHub: https://github.com/raushan-ry
 
 ---
 
-## ⭐ If you found this project useful
+## 14. If you found this project useful
 
 Please consider starring the repository and sharing it with others interested in Power Systems and MATLAB simulations.
