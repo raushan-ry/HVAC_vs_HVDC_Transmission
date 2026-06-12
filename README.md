@@ -121,39 +121,7 @@ The simulation shows that:
 
 ---
 
-## 8. Key Observations
-
-### HVAC
-
-✅ Suitable for short-distance transmission
-
-✅ No converter stations required
-
-❌ Higher transmission current
-
-❌ Higher I²R losses
-
-❌ Efficiency decreases with distance
-
----
-
-### HVDC
-
-✅ Lower line losses
-
-✅ Better for long-distance transmission
-
-✅ Higher efficiency beyond break-even distance
-
-✅ Lower conductor requirements
-
-❌ Requires expensive converter stations
-
-❌ Higher initial installation cost
-
----
-
-## 9. How to Run
+## 8. How to Run
 
 1. Open MATLAB.
 2. Navigate to the project folder.
@@ -173,7 +141,7 @@ The script will:
 
 ---
 
-## 10. Software Used
+## 9. Software Used
 
 * MATLAB
 * Git
@@ -181,7 +149,7 @@ The script will:
 
 ---
 
-## 11. Applications
+## 10. Applications
 
 * Power System Analysis
 * Electrical Engineering Education
@@ -192,6 +160,6 @@ The script will:
 
 ---
 
-## 12. If you found this project useful
+## 11. If you found this project useful
 
 Please consider starring the repository and sharing it with others interested in Power Systems and MATLAB simulations.
