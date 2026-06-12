@@ -173,21 +173,7 @@ The script will:
 
 ---
 
-## 10. Project Structure
-
-```text
-HVAC_vs_HVDC_Transmission
-│
-├── README.md
-├── power_line_ac_dc.m
-├── efficiency.png
-├── loss.png
-└── result.png
-```
-
----
-
-## 11. Software Used
+## 10. Software Used
 
 * MATLAB
 * Git
@@ -195,7 +181,7 @@ HVAC_vs_HVDC_Transmission
 
 ---
 
-## 12. Applications
+## 11. Applications
 
 * Power System Analysis
 * Electrical Engineering Education
@@ -206,16 +192,6 @@ HVAC_vs_HVDC_Transmission
 
 ---
 
-## 13. Author
-
-**Raushan**
-
-Electrical Engineering | Power Systems | MATLAB Simulation Projects
-
-GitHub: https://github.com/raushan-ry
-
----
-
-## 14. If you found this project useful
+## 12. If you found this project useful
 
 Please consider starring the repository and sharing it with others interested in Power Systems and MATLAB simulations.
